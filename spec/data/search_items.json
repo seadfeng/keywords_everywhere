@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "vol": 7480000,
+            "cpc": {
+                "currency": "$",
+                "value": "0.11"
+            },
+            "keyword": "nike",
+            "competition": 1,
+            "trend": [
+                {
+                    "month": "November",
+                    "year": 2021,
+                    "value": 9140000
+                },
+                {
+                    "month": "December",
+                    "year": 2021,
+                    "value": 9140000
+                },
+                {
+                    "month": "January",
+                    "year": 2022,
+                    "value": 6120000
+                },
+                {
+                    "month": "February",
+                    "year": 2022,
+                    "value": 6120000
+                },
+                {
+                    "month": "March",
+                    "year": 2022,
+                    "value": 7480000
+                },
+                {
+                    "month": "April",
+                    "year": 2022,
+                    "value": 7480000
+                },
+                {
+                    "month": "May",
+                    "year": 2022,
+                    "value": 7480000
+                },
+                {
+                    "month": "June",
+                    "year": 2022,
+                    "value": 7480000
+                },
+                {
+                    "month": "July",
+                    "year": 2022,
+                    "value": 9140000
+                },
+                {
+                    "month": "August",
+                    "year": 2022,
+                    "value": 9140000
+                },
+                {
+                    "month": "September",
+                    "year": 2022,
+                    "value": 7480000
+                },
+                {
+                    "month": "October",
+                    "year": 2022,
+                    "value": 7480000
+                }
+            ]
+        },
+        {
+            "vol": 301000,
+            "cpc": {
+                "currency": "$",
+                "value": "1.33"
+            },
+            "keyword": "hp",
+            "competition": 0.99,
+            "trend": [
+                {
+                    "month": "November",
+                    "year": 2021,
+                    "value": 450000
+                },
+                {
+                    "month": "December",
+                    "year": 2021,
+                    "value": 301000
+                },
+                {
+                    "month": "January",
+                    "year": 2022,
+                    "value": 301000
+                },
+                {
+                    "month": "February",
+                    "year": 2022,
+                    "value": 301000
+                },
+                {
+                    "month": "March",
+                    "year": 2022,
+                    "value": 301000
+                },
+                {
+                    "month": "April",
+                    "year": 2022,
+                    "value": 301000
+                },
+                {
+                    "month": "May",
+                    "year": 2022,
+                    "value": 301000
+                },
+                {
+                    "month": "June",
+                    "year": 2022,
+                    "value": 301000
+                },
+                {
+                    "month": "July",
+                    "year": 2022,
+                    "value": 301000
+                },
+                {
+                    "month": "August",
+                    "year": 2022,
+                    "value": 301000
+                },
+                {
+                    "month": "September",
+                    "year": 2022,
+                    "value": 301000
+                },
+                {
+                    "month": "October",
+                    "year": 2022,
+                    "value": 301000
+                }
+            ]
+        }
+    ],
+    "credits": 834357,
+    "time": 0.01
+}
